@@ -9,3 +9,5 @@ Then, this binary file is sent through network and recived by the receiver.
 Now, we use Huffmann decoding Algorithm to retrieve the data from the compressed file.
 
 This program uses data structures like binary trees and priority queues to create Huffmann Table that contains binary codes for each character.
+
+TimeComplexity - O(nlogn) - encoding, O(nlogn) - decoding. (n - number of unique characters in the message).
