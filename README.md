@@ -1,6 +1,6 @@
 # File-Compression-Algorithm
 
-*A text data is taken as input.
+->A text data is taken as input.
 
 *Our task is to provide security for the file by converting it into binary format by using the concept of Huffmann Encoding Algorithm.
 
